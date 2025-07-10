@@ -2,6 +2,7 @@
 This repository contains a forensic image analysis report conducted using **Autopsy**, an open-source digital forensics platform. The analysis focuses on simulating a digital autopsy of a forensic image to demonstrate the basic workflow and data extraction process.
 
 Project Overview
+
 Title: Forensic Image Analysis with Autopsy  
 
 Author: Adenike Oluwabusola Oni  
@@ -63,7 +64,7 @@ Tools & Skills Demonstrated
 - Report generation for forensic cases
 
 
-Disclaimer
+Disclaimer: 
 This project was completed as an academic or personal learning exercise and does not contain real-life criminal case data. All findings are simulated for educational purposes only.
 
 
